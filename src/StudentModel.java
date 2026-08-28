@@ -1,6 +1,6 @@
 public class StudentModel{
 
-    public void controller() {
+    public void model() {
       // TO DO
     }
 
